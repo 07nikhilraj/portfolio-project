@@ -1,0 +1,26 @@
+.shadowMy{
+    border-radius: 16px;
+    box-shadow: -1rem 0 3rem #000;
+}
+
+.card:hover~.card{
+    transform: translateX(130px);
+}
+
+.card:not(:first-child){
+    margin-left: -130px;
+}
+
+.card-header h2:hover{
+    background: linear-gradient(90deg,#ff8a00, #e52e71);
+    text-shadow: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sexyBorder {
+    border-width: 2px;
+    border-image: linear-gradient(90deg, #ff8a00, #e52e71);
+    border-image-slice: 1;
+  }
