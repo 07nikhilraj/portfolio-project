@@ -31,7 +31,10 @@ To accomplish this, I utilized Node.js, Express, and Cheerio. These technologies
 ## Contact
 
 The Contact page provides a means to get in touch with me. It includes a contact form where visitors can send me messages or inquiries. I am always open to collaboration, job opportunities, or any other inquiries related to my work.
+You can find the live version of the portfolio after some final touches.
 
-Feel free to explore the portfolio website and reach out to me with any questions or feedback. You can find the live version of the portfolio at [insert live website URL here].
+Thank you for visiting! 💖
 
-Thank you for visiting!
+A small part of my website 💁‍♂️
+![image](https://github.com/07nikhilraj/portfolio-project/assets/86933754/a7d23606-b438-4491-a361-b71db927bf7a)
+
