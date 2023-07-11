@@ -1,6 +1,24 @@
 # Portfolio
+🌟 My Portfolio Website 🌟
 
-This is my personal portfolio website built using React and Tailwind CSS. It showcases my work, skills, coding statistics, and provides a way to get in touch with me.
+Welcome to my personal portfolio website! This repository contains the source code for my portfolio built with React and Tailwind CSS. It showcases my projects, skills, coding statistics, and provides a way to get in touch with me.
+
+🚀 Features:
+- Home page with a brief introduction and highlights
+- About page to learn more about my background and interests
+- Skills page showcasing my technical expertise
+- Projects page highlighting my notable projects
+- Coding statistics page displaying my progress and achievements
+- Contact page with a form to get in touch
+
+🔥 Technologies and Tools Used:
+- React: A powerful JavaScript library for building user interfaces
+- Tailwind CSS: A utility-first CSS framework for rapid UI development
+- Framer Motion: A library for adding animations to the website
+- Node.js, Express, and Cheerio for web scraping coding statistics
+- GitHub Actions for continuous integration and deployment
+
+----------------
 
 ## Table of Contents
 
