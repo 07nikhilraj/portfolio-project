@@ -35,6 +35,5 @@ You can find the live version of the portfolio after some final touches.
 
 Thank you for visiting! 💖
 
-A small part of my website 💁‍♂️
-![image](https://github.com/07nikhilraj/portfolio-project/assets/86933754/a7d23606-b438-4491-a361-b71db927bf7a)
+
 
